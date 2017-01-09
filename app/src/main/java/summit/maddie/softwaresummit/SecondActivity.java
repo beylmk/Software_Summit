@@ -3,11 +3,11 @@ package summit.maddie.softwaresummit;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ImageActivity extends AppCompatActivity {
+public class SecondActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_image_download);
+        setContentView(R.layout.activity_second);
     }
 }
